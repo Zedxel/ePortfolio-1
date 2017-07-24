@@ -516,7 +516,7 @@ div#maincontent {
 }
 .intrinsic-container {
   postion:relative;
-  height: 0;
+  height: 500;
   overflow: hidden;
 }
 /*16x9 aspec ratio*/
